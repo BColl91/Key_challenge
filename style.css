@@ -16,7 +16,7 @@ body {
     max-width: 600px; 
     padding: 1rem;
     box-sizing: border-box;
-    background: rgba(255, 255, 255, 0.8);
+    background: #ffff;
     border-radius: 0.5rem;
   }
   
