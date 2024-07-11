@@ -29,9 +29,17 @@ body {
     align-self: flex-start;
     margin-top: 1rem; 
     width: 100%; 
-    text-align: left; 
-  }
+    text-align: center; 
+   }
+  
+  .result{
+    display:flex;
+    flex-direction: row;
+    /* flex-wrap:wrap; */
+    gap: 3rem;
+   }
   .yay {
     text-align: center;
+    text-decoration: solid;
+    font-weight: bold;
   }
-  
