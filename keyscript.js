@@ -11,3 +11,4 @@ document.addEventListener('keydown', (event) => {
     codeDisplay.textContent = `Code: ${code}`;
     whichDisplay.textContent = `Which: ${which}`;
 });
+//add notes//
