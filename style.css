@@ -1,4 +1,4 @@
-/*add notes */
+/*I have added a gradient backgound to add my own touch to the challenge. I then ensured that the box will stay in place in the window. I then chose the appropiate font and font-size*/
 body {
     display: flex;
     justify-content: center;
@@ -9,7 +9,7 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 50px;
   }
-  
+  /*The container is made white to ensure the content is easy to read. I curved the box to make it look smoother and less harsh. It is a specific size to allow the gradient background to show*/
   .container {
     display: flex;
     flex-direction: column;
@@ -22,7 +22,7 @@ body {
     border-radius: 0.5rem;
     block-size: 800px;
   }
-  
+  /*The rest of the classes are written to ensure that they are appropiate sizing and center of the window. I've arranged the results to be in a row to fill more space in the container. the yay class is seperate to ensure that the friendly message is center at the bottom of the container*/
   h1, h2 {
     margin: 0.5rem 0;
     text-align: center;
